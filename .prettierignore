@@ -1,0 +1,9 @@
+# Assets
+**/assets
+
+# Files
+*.json
+
+# Build
+build
+node_modules
