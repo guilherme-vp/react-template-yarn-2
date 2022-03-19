@@ -1,0 +1,6 @@
+{
+  "*.{tsx, ts}": [
+    "yarn format",
+    "yarn lint"
+  ]
+}
